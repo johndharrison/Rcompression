@@ -16,4 +16,3 @@ LazyLoad: yes
 URL: http://www.omegahat.org/Rcompression
 Collate: runTime.R Runzip.R unzip.R zave.R zip.R zipComment.R removeZipEntry.R 
          archive.R Rtar.R bunzip2.R compress.R 
-         
